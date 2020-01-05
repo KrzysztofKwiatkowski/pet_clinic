@@ -1,4 +1,4 @@
-package guru.springframework.model;
+package com.kkwiatkowski.model;
 
 import java.time.LocalDate;
 
