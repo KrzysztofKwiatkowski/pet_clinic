@@ -3,7 +3,6 @@ package com.kkwiatkowski.model;
 public class PetType {
 
     private String name;
-
     public String getName() {
         return name;
     }
