@@ -16,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -135,7 +138,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578742564770</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;POJOs">
+      <created>1578742756634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578742756634</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;POJOs">
+      <created>1578742879130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1578742879130</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;POJOs">
+      <created>1578742908437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578742908437</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,20 +182,20 @@
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="412" y="487" key="#com.intellij.ide.util.MemberChooser/0.0.1600.1200@0.0.1600.1200" timestamp="1578247680537" />
-    <state x="328" y="259" key="CommitChangelistDialog2" timestamp="1578742878470">
+    <state x="328" y="259" key="CommitChangelistDialog2" timestamp="1578742907863">
       <screen x="0" y="0" width="1200" height="1600" />
     </state>
-    <state x="328" y="259" key="CommitChangelistDialog2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742878470" />
+    <state x="328" y="259" key="CommitChangelistDialog2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742907863" />
     <state x="448" y="194" key="CommitChangelistDialog2/0.0.1600.1200@0.0.1600.1200" timestamp="1578249694628" />
     <state x="580" y="354" key="FileChooserDialogImpl" timestamp="1578248323682">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="580" y="354" key="FileChooserDialogImpl/0.0.1600.1200@0.0.1600.1200" timestamp="1578248323682" />
-    <state x="294" y="443" key="Vcs.Push.Dialog.v2" timestamp="1578742771260">
-      <screen x="0" y="0" width="1200" height="1600" />
+    <state x="392" y="332" key="Vcs.Push.Dialog.v2" timestamp="1578746571696">
+      <screen x="0" y="0" width="1600" height="1200" />
     </state>
-    <state x="294" y="443" key="Vcs.Push.Dialog.v2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742771260" />
-    <state x="392" y="332" key="Vcs.Push.Dialog.v2/0.0.1600.1200@0.0.1600.1200" timestamp="1578248081553" />
+    <state x="294" y="443" key="Vcs.Push.Dialog.v2/0.0.1200.1600@0.0.1200.1600" timestamp="1578743143539" />
+    <state x="392" y="332" key="Vcs.Push.Dialog.v2/0.0.1600.1200@0.0.1600.1200" timestamp="1578746571696" />
     <state x="508" y="333" key="VcsDiffUtil.ChangesDialog" timestamp="1578248004914">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
