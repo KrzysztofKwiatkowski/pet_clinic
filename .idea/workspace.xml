@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4c10149-b493-4d7a-b646-0693a898bfb3" name="Default Changelist" comment="">
+    <list default="true" id="f4c10149-b493-4d7a-b646-0693a898bfb3" name="Default Changelist" comment="&#10;POJOs. Closes #2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kkwiatkowski/model/Pet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,14 +211,22 @@
       <option name="project" value="LOCAL" />
       <updated>1578757673192</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&#10;POJOs. Closes #2.">
+      <created>1578758627419</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578758627419</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="&#10;POJOs" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;POJOs" />
+    <MESSAGE value="&#10;POJOs. Closes #2." />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;POJOs. Closes #2." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -232,11 +242,11 @@
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="412" y="487" key="#com.intellij.ide.util.MemberChooser/0.0.1600.1200@0.0.1600.1200" timestamp="1578247680537" />
-    <state x="448" y="194" key="CommitChangelistDialog2" timestamp="1578757672611">
+    <state x="448" y="194" key="CommitChangelistDialog2" timestamp="1578758771332">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="328" y="259" key="CommitChangelistDialog2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742907863" />
-    <state x="448" y="194" key="CommitChangelistDialog2/0.0.1600.1200@0.0.1600.1200" timestamp="1578757672611" />
+    <state x="448" y="194" key="CommitChangelistDialog2/0.0.1600.1200@0.0.1600.1200" timestamp="1578758771332" />
     <state x="580" y="354" key="FileChooserDialogImpl" timestamp="1578248323682">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
@@ -253,11 +263,11 @@
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="258" y="502" key="NewModule_or_Project.wizard/0.0.1600.1200@0.0.1600.1200" timestamp="1578756787605" />
-    <state x="392" y="332" key="Vcs.Push.Dialog.v2" timestamp="1578757675444">
+    <state x="392" y="332" key="Vcs.Push.Dialog.v2" timestamp="1578758631030">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="294" y="443" key="Vcs.Push.Dialog.v2/0.0.1200.1600@0.0.1200.1600" timestamp="1578743143539" />
-    <state x="392" y="332" key="Vcs.Push.Dialog.v2/0.0.1600.1200@0.0.1600.1200" timestamp="1578757675444" />
+    <state x="392" y="332" key="Vcs.Push.Dialog.v2/0.0.1600.1200@0.0.1600.1200" timestamp="1578758631030" />
     <state x="508" y="333" key="VcsDiffUtil.ChangesDialog" timestamp="1578248004914">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
