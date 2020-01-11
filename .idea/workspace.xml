@@ -146,23 +146,31 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="190" y="567" key="#All_in_PET_CLINIC_basic" timestamp="1578742840903">
+      <screen x="0" y="0" width="1200" height="1600" />
+    </state>
+    <state x="190" y="567" key="#All_in_PET_CLINIC_basic/0.0.1200.1600@0.0.1200.1600" timestamp="1578742840903" />
+    <state x="185" y="594" key="#Notifications" timestamp="1578742796500">
+      <screen x="0" y="0" width="1200" height="1600" />
+    </state>
+    <state x="185" y="594" key="#Notifications/0.0.1200.1600@0.0.1200.1600" timestamp="1578742796500" />
     <state x="412" y="487" key="#com.intellij.ide.util.MemberChooser" timestamp="1578247680537">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="412" y="487" key="#com.intellij.ide.util.MemberChooser/0.0.1600.1200@0.0.1600.1200" timestamp="1578247680537" />
-    <state x="328" y="259" key="CommitChangelistDialog2" timestamp="1578742564157">
+    <state x="328" y="259" key="CommitChangelistDialog2" timestamp="1578742755977">
       <screen x="0" y="0" width="1200" height="1600" />
     </state>
-    <state x="328" y="259" key="CommitChangelistDialog2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742564157" />
+    <state x="328" y="259" key="CommitChangelistDialog2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742755977" />
     <state x="448" y="194" key="CommitChangelistDialog2/0.0.1600.1200@0.0.1600.1200" timestamp="1578249694628" />
     <state x="580" y="354" key="FileChooserDialogImpl" timestamp="1578248323682">
       <screen x="0" y="0" width="1600" height="1200" />
     </state>
     <state x="580" y="354" key="FileChooserDialogImpl/0.0.1600.1200@0.0.1600.1200" timestamp="1578248323682" />
-    <state x="294" y="443" key="Vcs.Push.Dialog.v2" timestamp="1578742568766">
+    <state x="294" y="443" key="Vcs.Push.Dialog.v2" timestamp="1578742771260">
       <screen x="0" y="0" width="1200" height="1600" />
     </state>
-    <state x="294" y="443" key="Vcs.Push.Dialog.v2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742568766" />
+    <state x="294" y="443" key="Vcs.Push.Dialog.v2/0.0.1200.1600@0.0.1200.1600" timestamp="1578742771260" />
     <state x="392" y="332" key="Vcs.Push.Dialog.v2/0.0.1600.1200@0.0.1600.1200" timestamp="1578248081553" />
     <state x="508" y="333" key="VcsDiffUtil.ChangesDialog" timestamp="1578248004914">
       <screen x="0" y="0" width="1600" height="1200" />
@@ -176,5 +184,9 @@
       <screen x="0" y="0" width="1200" height="1600" />
     </state>
     <state x="295" y="623" key="com.intellij.ide.util.TipDialog/0.0.1200.1600@0.0.1200.1600" timestamp="1578659773746" />
+    <state x="382" y="800" key="git4idea.rebase.GitRebaseDialog" timestamp="1578742856244">
+      <screen x="0" y="0" width="1200" height="1600" />
+    </state>
+    <state x="382" y="800" key="git4idea.rebase.GitRebaseDialog/0.0.1200.1600@0.0.1200.1600" timestamp="1578742856244" />
   </component>
 </project>
